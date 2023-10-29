@@ -1,0 +1,6 @@
+@Bills.Api_HostAddress = https://localhost:5001
+
+GET {{Bills.Api_HostAddress}}/status
+Accept: application/json
+
+###
